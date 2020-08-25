@@ -1,2 +1,2 @@
-# sample_colab
-Sample repository with a Google Colab Notebook
+# My First Repo!
+This is my first Github repo. Notice that I have a nifty Colab file in here!
